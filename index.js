@@ -1,9 +1,11 @@
-let app = require('express')();
+var express = require('express');
+var app = express();
 
 app.get('/', function(req, res){
   res.sendFile("index.html");
 });
-
-app.use('/', router);
-app.listen(process.env.port || 3000);
-
+                                
+var port = process.env.PORT || 3000;
+app.listen(port, function () {
+    console.log('Umbler listening on port %s', port);
+});
