@@ -1,0 +1,8 @@
+A apresentação encontra-se dentro do arquivo index.html.
+Para visualizar, clique duas vezes sobre o arquivo. Em caso de falha, clique com o 
+botão direito do mouse e selecione 'abrir com', então selecione o browser isntalado no sistema de sua escolha.
+
+Integrantes:
+Francis Vargas,
+Guilherme A. Reinheimer,
+Renan Scherer.
